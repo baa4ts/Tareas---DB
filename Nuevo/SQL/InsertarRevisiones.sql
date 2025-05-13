@@ -1,0 +1,15 @@
+INSERT INTO Revisiones (NumeroRevisiones, CambioAceite, CambioFiltro, RevisionFrenos, Otros, Matricula) VALUES
+(1, 1, 0, 0, 'Revisar luces', 'V7632NX'),
+(2, 1, 1, 0, 'Cambiar limpias', 'V7632NX'),
+(3, 0, 1, 1, 'Arreglar alarma', 'V4578OB'),
+(4, 0, 1, 1, 'Ajustar tablero', 'V2360OX'),
+(5, 1, 1, 1, 'Cambiar limpias, revisar luces', 'V2565NB'),
+(6, 0, 0, 1, 'Cambiar luz interior', 'V7648OU'),
+(7, 1, 1, 0, NULL, 'V2565NB'),
+(8, 0, 0, 0, NULL, 'V8018LJ'),
+(9, 1, 0, 1, 'Regular encendido', 'V3543NC'),
+(10, 0, 1, 0, 'Reparar puerta delantera', 'V8018LJ'),
+(11, 0, 0, 0, NULL, 'V3543NC'),
+(12, 1, 1, 1, NULL, 'V1234LC'),
+(13, 0, 1, 0, 'Cambiar limpias', 'V9834LH'),
+(14, 0, 1, 0, NULL, 'V1010PB');
