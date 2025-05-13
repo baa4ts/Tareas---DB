@@ -1,0 +1,1 @@
+SELECT Matricula, Marca, Modelo FROM CochesVendidos;
