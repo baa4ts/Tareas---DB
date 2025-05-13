@@ -1,0 +1,15 @@
+INSERT INTO Clientes (CodigoCliente, NombreCliente, ApellidosCliente, DireccionCliente, Poblacion, CodigoPostal, Provincia, Telefono, FechaNacimiento) VALUES
+(100, 'Antonio', 'García Pérez', 'Astilleros, 3', 'Valencia', 46011, 'Valencia', '963689521', '1960-08-15'),
+(101, 'Carlos', 'Pérez Ruiz', 'Magallanes, 21', 'Utiel', 46300, 'Valencia', '962485147', '1958-04-26'),
+(105, 'Luis', 'Rodríguez Más', 'Juan de Mena, 11', 'Gandía', 46700, 'Valencia', '962965478', '1961-03-30'),
+(112, 'Jaime', 'Juangrán Sornes', 'Balmes, 21', 'Valencia', 46014, 'Valencia', '963684596', '1968-01-31'),
+(225, 'Alfonso', 'Prats Montolla', 'Séneca, 23', 'Sagunto', 46500, 'Valencia', '963547852', '1969-04-28'),
+(260, 'José', 'Navarro Lard', 'Río Segura, 14', 'Valencia', 46002, 'Valencia', '963874569', '1964-05-15'),
+(289, 'Elisa', 'Úbeda Sansón', 'Valencia, 4', 'Sagunto', 46500, 'Valencia', '963547812', '1962-07-10'),
+(352, 'Eva', 'San Martín', 'Villafranca, 34', 'Alzira', 46600, 'Valencia', '962401589', '1965-08-12'),
+(365, 'Gerardo', 'Hernández Luis', 'Salinas, 8', 'Valencia', 46002, 'Valencia', '963589621', '1965-01-02'),
+(390, 'Carlos', 'Prats Ruiz', 'Ercilla, 8', 'Valencia', 46005, 'Valencia', '963589654', '1967-05-03'),
+(810, 'Lourdes', 'Oliver Peris', 'Gran vía, 34', 'Valencia', 46007, 'Valencia', '963587412', '1964-06-25'),
+(822, 'Sergio', 'Larred Navas', 'Blasco Ibáñez, 65', 'Valencia', 46005, 'Valencia', '963589621', '1967-12-25'),
+(860, 'Joaquín', 'Árboles Onsins', 'Gandía, 8', 'Xátiva', 46800, 'Valencia', '963758963', '1969-05-04'),
+(861, 'Joaquín', 'Árboles Onsins', 'Gandía, 8', 'Xátiva', 46800, 'Valencia', '963758963', '1969-05-04');
