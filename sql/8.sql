@@ -1,0 +1,1 @@
+delete from Clientes order by CodigoCliente desc limit 1;
